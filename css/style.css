@@ -1,0 +1,119 @@
+body{
+    background: #fff;
+}
+#wrapper{
+    background-color: #1BA1AD;
+    height: 500px;
+    width: 1000px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+
+#container{
+    background-color: #fff;
+    height: 330px;
+    width: 330px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+    
+}
+.images{
+    width:100px;
+    height:100px;
+    border-radius:150px;
+    border:5px solid #fff;
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%, -30%);
+    
+}
+#header{
+    background-color: #fff;
+    height: 250px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow:0px 1px 0px #A9A9AA;
+        
+}
+.fondo{
+    width: 330px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+.text{
+    
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute;
+    left: 47%;
+    top: 54%;
+    transform: translate(-50%, -54%);
+}
+.text2{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #A9A9AA;
+    position: absolute;
+    left: 70%;
+    top: 54%;
+    transform: translate(-70%, -54%);
+}
+.text3{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #A9A9AA;
+    position: absolute;
+    left: 50%;
+    top: 55%;
+    transform: translate(-50%, 55%);
+}
+.text4 {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute;
+    left: 25%;
+    top: 82%;
+    transform: translate(-25%, -82%);
+}
+#container .text5{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute;
+    left: 50%;
+    top: 82%;
+    transform: translate(-50%, -82%);
+}
+.text6{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    position: absolute;
+    left: 75%;
+    top: 82%;
+    transform: translate(-75%, -82%);
+}
+.fondo2{
+    position: absolute;
+    left: 40%;
+    top: 50%;
+   
+}
+.fondo1{
+    position: absolute;
+    right: 50%;
+    bottom: 40%; 
+}
